@@ -1,0 +1,15 @@
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\MovieHue.GUI.exe.config
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\MovieHue.GUI.exe
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\MovieHue.GUI.pdb
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\MovieHue.Logic.dll
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\SlimDX.dll
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\SharpHue.dll
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\MovieHue.Logic.pdb
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\MovieHue.GUI.csprojResolveAssemblyReference.cache
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\MovieHue.GUI.FormMain.resources
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\MovieHue.GUI.Properties.Resources.resources
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\MovieHue.GUI.csproj.GenerateResource.Cache
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\MovieHue.GUI.exe
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\MovieHue.GUI.pdb

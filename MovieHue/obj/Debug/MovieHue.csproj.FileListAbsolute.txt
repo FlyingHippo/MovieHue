@@ -1,0 +1,10 @@
+c:\users\fedeh\onedrive\documents\visual studio 2012\Projects\MovieHue\MovieHue\bin\Debug\MovieHue.exe.config
+C:\Users\fedeh\OneDrive\documents\visual studio 2012\Projects\MovieHue\MovieHue\bin\Debug\MovieHue.exe
+C:\Users\fedeh\OneDrive\documents\visual studio 2012\Projects\MovieHue\MovieHue\bin\Debug\MovieHue.pdb
+C:\Users\fedeh\OneDrive\documents\visual studio 2012\Projects\MovieHue\MovieHue\obj\Debug\MovieHue.csprojResolveAssemblyReference.cache
+C:\Users\fedeh\OneDrive\documents\visual studio 2012\Projects\MovieHue\MovieHue\obj\Debug\MovieHue.exe
+C:\Users\fedeh\OneDrive\documents\visual studio 2012\Projects\MovieHue\MovieHue\obj\Debug\MovieHue.pdb
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\MovieHue\bin\Debug\SharpHue.dll
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\MovieHue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\MovieHue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\MovieHue\bin\Debug\SlimDX.dll

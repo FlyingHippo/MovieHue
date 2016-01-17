@@ -1,0 +1,9 @@
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\Main.exe.config
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\MovieHue.formMain.resources
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\Main.exe
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\bin\Debug\Main.pdb
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\Main.exe
+C:\Users\fedeh\OneDrive\Documents\Visual Studio 2012\Projects\MovieHue\Main\obj\Debug\Main.pdb
